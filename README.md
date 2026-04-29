@@ -11,8 +11,8 @@
 
 <!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://hanuman9793.github.io/Portflio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hanuman-yadav1/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/hanuman_yadav9793/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanuman-yadav1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanuman_yadav9793/)
 [![GitHub followers](https://img.shields.io/github/followers/Hanuman9793?style=for-the-badge&color=534AB7&labelColor=1a1a2e&label=Followers)](https://github.com/Hanuman9793)
 ![Profile Views](https://komarev.com/ghpvc/?username=Hanuman9793&color=534AB7&style=for-the-badge&label=Profile+Views)
 
@@ -48,8 +48,8 @@ const developer = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-534AB7?style=flat-square)](https://hanuman9793.github.io/Portflio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/hanuman-yadav1/))
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/hanuman_yadav9793/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanuman-yadav1/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/hanuman_yadav9793/)
 
 </div>
 
