@@ -106,25 +106,29 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Hanuman9793/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=My-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Hanuman9793/Plan-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Plan-AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Hanuman9793/ResumeAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=ResumeAI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Hanuman9793/Digital-Wishlist-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Digital-Wishlist-Platform&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Hanuman9793/Energy-Efficient-CPU-Scheduling-Simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Energy-Efficient-CPU-Scheduling-Simulator&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Hanuman9793/stationery-ecommerce-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=stationery-ecommerce-platform&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
-</div>
+<a href="https://github.com/Hanuman9793/real-time-process-monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=real-time-process-monitor&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/AI-Task-Reminder-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=AI-Task-Reminder-System&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/Pollution-Awareness">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Pollution-Awareness&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/Portflio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Portflio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+</p>
 
 ---
 
