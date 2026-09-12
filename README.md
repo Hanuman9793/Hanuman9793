@@ -1,249 +1,162 @@
-# 👋 Hi, I'm Hanuman Yadav
+<!-- Animated header wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Hey%20There!%20I'm%20Hanuman%20Yadav%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20India&descAlignY=58&descSize=18" width="100%"/>
 
-### B.Tech CSE Student | Full-Stack & AI Enthusiast
+<!-- Animated typing SVG -->
+<a href="https://github.com/Hanuman9793">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Next.js+%E2%9A%A1;Building+Scalable+Web+Apps+%F0%9F%8C%90;Coffee+%E2%86%92+Code+%E2%98%95%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-I'm a Computer Science & Engineering student at Lovely Professional University,
-interested in building practical software, web applications, and AI-powered solutions.
+<br/><br/>
 
-I enjoy learning by building projects and continuously improving my programming,
-development, and problem-solving skills.
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://hanumanportfolio-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanuman-yadav1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanuman_yadav9793/)
+[![GitHub followers](https://img.shields.io/github/followers/Hanuman9793?style=for-the-badge&color=534AB7&labelColor=1a1a2e&label=Followers)](https://github.com/Hanuman9793)
+![Profile Views](https://komarev.com/ghpvc/?username=Hanuman9793&color=534AB7&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
-- 🏫 **Lovely Professional University**
-- 📅 Expected Graduation: **2028**
-- 💻 Interested in **Full-Stack Development**
-- 🤖 Exploring **Artificial Intelligence & AI APIs**
-- 📊 Interested in **Data Analysis & Visualization**
-- 🌱 Currently improving my **Data Structures & Algorithms**
-- 🔨 I learn best by building real projects
-- 🤝 Open to collaborations, hackathons, and learning opportunities
+```javascript
+const developer = {
+  name:         "Hanuman Yadav",
+  location:     "India 🇮🇳",
+  role:         "Full Stack Developer",
+  passions:     ["Coding", "Problem Solving", "Learning New Tech"],
+  currentFocus: "Building scalable web applications",
+  portfolio:    "https://hanumanportfolio-two.vercel.app/",
+  funFact:      "I turn coffee into code ☕ → 💻",
+  openTo:       "Collaborations & Open Source"
+};
+```
+
+- 🔭 Currently working on **full-stack projects**
+- 🌱 Learning **System Design & Cloud Architecture**
+- 🤝 Open to **collaborations** on interesting projects
+- 💬 Ask me about **React, Node.js, Next.js** or anything tech!
+- ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
+<div align="center">
 
-<a href="https://hanuman9793.github.io/Portfolio-2.0/">
-  <img src="https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-534AB7?style=flat-square)](https://hanumanportfolio-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanuman-yadav1/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/hanuman_yadav9793/)
 
-<a href="https://www.linkedin.com/in/hanuman-yadav1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Hanuman9793">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/hanuman_yadav9793/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages"/>
-</p>
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,python,c&theme=dark&perline=8" />
 
 ### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=8" />
 
 ### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark&perline=8" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database"/>
-</p>
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark&perline=8" />
 
-### 🧰 Tools
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</p>
+---
 
-### 🤖 AI & Data
+## 📊 GitHub Stats
 
-- Python
-- Pandas
-- Data Analysis
-- Data Visualization
-- AI API Integration
-- Machine Learning Fundamentals
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hanuman9793&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanuman9793&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Hanuman9793&theme=tokyonight&hide_border=true&ring=534AB7&fire=FF6B6B&currStreakLabel=534AB7" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Animated trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hanuman9793&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Task Reminder System
-
-An intelligent productivity application that combines AI-powered task management,
-automated reminders, and smart scheduling.
-
-**Features:**
-- AI-powered chat assistant
-- Natural-language task creation
-- Smart reminder scheduling
-- AI-generated study plans
-- Automatic task prioritization
-- Email and browser notifications
-- JWT authentication
-- Chat history
-
-**Tech Stack:**
-
-`Node.js` `Express.js` `TypeScript` `MongoDB` `Mongoose` `JavaScript` `JWT` `OpenRouter API`
-
-🔗 [View Project](https://github.com/Hanuman9793/AI-Task-Reminder-System)
-
----
-
-### 🛒 Ink & Paper — Stationery E-Commerce
-
-A full-stack stationery e-commerce platform for browsing products,
-managing carts, placing orders, and managing an online store.
-
-**Features:**
-- Product catalog
-- Product search and filtering
-- Shopping cart
-- Checkout
-- User authentication
-- User profiles
-- Wishlist
-- Order management
-- Order tracking
-- Admin dashboard
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
-🔗 [View Project](https://github.com/Hanuman9793/stationery-ecommerce-platform)
-
----
-
-### 📊 Real-Time Process Monitor
-
-A real-time system monitoring dashboard that provides information about
-CPU, memory, disk, network usage, and running processes.
-
-**Features:**
-- Live CPU monitoring
-- Memory monitoring
-- Disk and network monitoring
-- Process tracking
-- Per-core CPU usage
-- Interactive dashboard
-- Automatic data updates
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Chart.js`
-
-🔗 [View Project](https://github.com/Hanuman9793/real-time-process-monitor)
-
----
-
-### 🤖 MPLADS AI — Intelligent Risk Monitoring System
-
-An AI and data-driven system designed to analyze MPLADS development works
-and identify potentially high-risk projects using risk scoring.
-
-**Focus Areas:**
-- Data preprocessing
-- Development-work analysis
-- Risk score calculation
-- Risk-level classification
-- High-risk work identification
-- Data visualization and monitoring
-
-**Tech Stack:**
-
-`Python` `Pandas` `AI/ML` `React` `JavaScript`
-
-🔗 [View Project](https://github.com/Hanuman9793/MPLADS-AI-Intelligent-Risk-Monitoring-System)
-
-> 🚧 This project is currently under development.
-
----
-
-### 🌱 Pollution Awareness
-
-A web application focused on pollution awareness and environmental
-data visualization.
-
-**Features:**
-- Pollution information
-- Location-based analysis
-- Pollution trends
-- Interactive visualization
-- Environmental awareness interface
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Data Visualization`
-
-🔗 [View Project](https://github.com/Hanuman9793/Pollution-Awareness)
-
----
-
-### 🏦 Bank Token Queue Management System
-
-A C++ project implementing a bank token management system using
-queue-based customer management.
-
-**Concepts Used:**
-
-`C++` `Circular Queue` `OOP` `Data Structures`
-
-🔗 [View Project](https://github.com/Hanuman9793)
-
----
-
-## 📈 GitHub Statistics
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hanuman9793&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanuman's GitHub Stats"/>
+<a href="https://github.com/Hanuman9793/stationery-ecommerce-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=stationery-ecommerce-platform&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanuman9793&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/Hanuman9793/real-time-process-monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=real-time-process-monitor&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/AI-Task-Reminder-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=AI-Task-Reminder-System&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/Pollution-Awareness">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Pollution-Awareness&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/Hanuman9793/Portflio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanuman9793&repo=Portflio&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
 
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanuman9793&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanuman9793&theme=tokyo-night&hide_border=true&area=true&area_color=534AB7)](https://github.com/Hanuman9793)
 
-</p>
+</div>
+
 
 ---
 
-## 🎯 Current Focus
+## 💬 Dev Quote
 
-```text
-Full-Stack Development
-        ↓
-Backend Development
-        ↓
-Data Structures & Algorithms
-        ↓
-Artificial Intelligence
-        ↓
-Building Real-World Projects
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&section=footer" width="100%"/>
+
+<div align="center">
+
+### ❤️ Thanks for visiting! Don't forget to ⭐ your favourite repos!
+
+</div>
